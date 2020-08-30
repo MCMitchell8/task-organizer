@@ -1,4 +1,4 @@
-# task-organizer
+# Task Organizer
 
 ## General Information
 After the COVID-19 quarantine began, my brother’s classes were very limited and he was only able to talk to his teacher twice a week online. It was much more difficult to keep up with his assignments, especially since many of them were optional and there was little guidance.
